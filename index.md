@@ -2,7 +2,7 @@
 
 OSS developer especially for Crystal.
 
-Japanese living in Tokyo.
+I'm Japanese living in Tokyo.
 
 ### List of OSS
 
