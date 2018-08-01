@@ -14,15 +14,24 @@ I'm **founder** of these projects.
 - [tbrand/mssh](https://github.com/tbrand/mssh)
 - [tbrand/tokoroten](https://github.com/tbrand/tokoroten)
 - [tbrand/iemon](https://github.com/tbrand/iemon)
+- [tbrand/awesome-logger](https://github.com/tbrand/awesome-logger)
 
 ### Contact
 - [Twitter](https://twitter.com/taichiro_dev)
-- [Email](taichiro0709@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/taichiro-suzuki-888429133/)
+- Email taichiro0709[at]gmail.com
 
-### Experience (mainly)
+### Languages (mainly)
 - Crystal
 - Ruby
 - Node.js
 - Java (Android)
 - CUDA
 - C
+
+### Jobs
+- DevOps
+- CI/CD backend
+- OSS contribution
+- Building mobile apps (Both of iOS and Android)
+- Creating Android SDK and app
