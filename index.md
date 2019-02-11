@@ -1,17 +1,18 @@
 ## tbrand (Taichiro Suzuki)
 
-OSS developer especially for Crystal.
-
-I'm Japanese living in Tokyo.
+OSS lover. Especially write Rust and Crystal.
 
 ### List of OSS
 
 I'm **founder** of these projects.
-- [SushiChain/SushiChain](https://github.com/SushiChain/SushiChain) (https://sushichain.io/)
-- [tbrand/which_is_the_fastest](https://github.com/tbrand/which_is_the_fastest)
-- [tbrand/router.cr](https://github.com/tbrand/router.cr)
-- [tbrand/neph](https://github.com/tbrand/neph)
-- [tbrand/mssh](https://github.com/tbrand/mssh)
+- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) (Over **1.6k** stars!)
+- [SushiChain/SushiChain](https://github.com/SushiChain/SushiChain) ( https://sushichain.io/ ) (Over **130** stars!)
+- [yahoojapan/hosted-danger](https://github.com/yahoojapan/hosted-danger) (Over **70** stars!)
+
+Under my orgs.
+- [tbrand/router.cr](https://github.com/tbrand/router.cr) (Over **180** stars!)
+- [tbrand/neph](https://github.com/tbrand/neph) (Over **140** stars!)
+- [tbrand/mssh](https://github.com/tbrand/mssh) (Over **30** stars!)
 - [tbrand/tokoroten](https://github.com/tbrand/tokoroten)
 - [tbrand/iemon](https://github.com/tbrand/iemon)
 - [tbrand/awesome-logger](https://github.com/tbrand/awesome-logger)
@@ -19,19 +20,20 @@ I'm **founder** of these projects.
 ### Contact
 - [Twitter](https://twitter.com/taichiro_dev)
 - [LinkedIn](https://www.linkedin.com/in/taichiro-suzuki-888429133/)
-- Email taichiro0709[at]gmail.com
+- Email taichiro0709@gmail.com
 
 ### Languages (mainly)
+- Rust
 - Crystal
 - Ruby
-- Node.js
-- Java (Android)
+- Nodejs
+- Java
 - CUDA
 - C
 
-### Jobs
+### Experiences
 - DevOps
-- CI/CD backend
+- CI/CD
 - OSS contribution
-- Building mobile apps (Both of iOS and Android)
-- Creating Android SDK and app
+- Mobile apps (Both of iOS and Android)
+- Web frontend and backend.
